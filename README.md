@@ -12,9 +12,9 @@
 
 <h2>✨ Sobre mí</h2>
 <ul>
-  <li>🔭 Actualmente estudiando DAW en: <b>I.E.S La Vereda</b></li>
-  <li>🌱 Aprendiendo: <b>Docker, Tailwind</b></li>
-  <li>💡 Intereses: <b>desarrollo web en entorno cliente, diseño de interfaces</b></li>
+  <li>🔭 Actualmente realizando proyectos personalesli>
+  <li>🌱 Aprendiendo: <b>Tailwind</b></li>
+  <li>💡 Intereses: <b>desarrollo web en entorno cliente, diseño de interfaces desarrollo de aplicaciones multiplataforma</b></li>
 </ul>
 
 <hr>
@@ -37,19 +37,19 @@
 </p>
 
 <h3>IDE</h3>
- Sublime Text · IntelliJ · VS Code · Eclipse · Mysql Workbench
+ Sublime Text · IntelliJ · VS Code · Eclipse · Mysql Workbench · Android Studio
 <hr>
 
 <h2>🚀 Proyectos destacados</h2>
 
-<h3>🌟 Tienda Online MyFitness</h3>
+<h3>🌟 MyFitness (en mantenimiento)</h3>
 <p>
   Tienda online de nutrición deportiva.
 </p>
 <p>
-  🛠 Tecnologías: Laravel, mysql, Javascript, PHP, HTML, CSS 
+  🛠 Tecnologías: Laravel, mysql, Javascript, PHP, HTML, CSS, Tailwind
   <br>
-  📂 <a href="https://github.com/Ivan1642/TiendaMyFitness" target="_blank">Repositorio</a>
+  📂 <a href="" target="_blank">Repositorio</a>
 </p>
 
 <hr>
@@ -65,7 +65,7 @@
 <h2>🤝 Conectemos</h2>
 
 <ul>
-  <li>💼 <a href="https://www.linkedin.com/in/iv%C3%A1n-lis-le%C3%B3n-0048a626b/" target="_blank">LinkedIn</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/ivan-lis-leon" target="_blank">LinkedIn</a></li>
   <li>📫 Email: ivanlisleon@gmail.com</li>
 </ul>
 
