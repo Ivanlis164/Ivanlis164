@@ -12,7 +12,7 @@
 
 <h2>✨ Sobre mí</h2>
 <ul>
-  <li>🔭 Actualmente realizando proyectos personalesli>
+  <li>🔭 Actualmente realizando <b>proyectos personales</b></li>
   <li>🌱 Aprendiendo: <b>Tailwind</b></li>
   <li>💡 Intereses: <b>desarrollo web en entorno cliente, diseño de interfaces desarrollo de aplicaciones multiplataforma</b></li>
 </ul>
